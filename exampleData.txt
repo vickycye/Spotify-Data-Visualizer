@@ -1,0 +1,20 @@
+[
+  {
+    "endTime" : "1900-12-30 04:20",
+    "artistName" : "Two Steps from Hell",
+    "trackName" : "Victory (Instrumental)",
+    "msPlayed" : 5738
+  },
+  {
+    "endTime" : "1900-12-30 04:20",
+    "artistName" : "Charlie Puth",
+    "trackName" : "The Way I Am - Acoustic",
+    "msPlayed" : 2543
+  },
+  {
+    "endTime" : "1900-12-30 04:20",
+    "artistName" : "NIKI",
+    "trackName" : "Plot Twist",
+    "msPlayed" : 32341
+  }
+]
